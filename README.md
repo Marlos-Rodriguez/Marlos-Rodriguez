@@ -1,5 +1,5 @@
 # Marlos Rodríguez
-![Banner](BannerText.png)
+![Banner](https://github.com/Marlos-Rodriguez/Marlos-Rodriguez/raw/master/BannerText.png)
 
 ## Contact Me
 * Twitter - [@RodriguezMarlos](https://twitter.com/RodriguezMarlos)
