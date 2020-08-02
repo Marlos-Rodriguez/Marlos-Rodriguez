@@ -12,7 +12,7 @@ Product Hunt clone application with React/Next JS and Firebase Login and SignUp 
 
 * **Gatsby Hotel Website**:  
 Static Hotel Website made with React / Gatsby js and CMS GraphQL:  
-   [GitHub](https://github.com/Marlos-Rodriguez/Product-Hunt-Next-Firebase)
+   [GitHub](https://github.com/Marlos-Rodriguez/Gatsby-Hotel)
 
 * **CRUD Redux App**:  
 Product Management CRUD web application. Created with React using Redux and React Hooks  
