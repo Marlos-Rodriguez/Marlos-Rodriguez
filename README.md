@@ -1,5 +1,5 @@
 # Marlos Rodríguez
-![Banner](https://github.com/Marlos-Rodriguez/Marlos-Rodriguez/raw/master/BannerText.png)
+![Banner](https://github.com/Marlos-Rodriguez/Marlos-Rodriguez/raw/master/NewBanner.png)
 # Projects
 * **Social Network MERN + GraphQL App**:  
 FullStack App Made With the Stack MERN + GraphQL. Create, delete & comment Post and liked:  
