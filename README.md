@@ -19,7 +19,7 @@ Project and Task Management Web Application with User Login and Signup Created w
    [Back](https://github.com/Marlos-Rodriguez/MERN-Task-Servidor)
 
 * **Twitter Clon Go**:  
-Twitter Clon Back-end made with GO and MongoDB.:  
+Twitter Clon Back-end made with GO and MongoDB:  
    [Open](https://twittergoclon.herokuapp.com/)  
    [GitHub](https://github.com/Marlos-Rodriguez/Twitter-Clon-Back)
 
