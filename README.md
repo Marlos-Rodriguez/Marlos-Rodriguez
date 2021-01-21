@@ -6,6 +6,11 @@ FullStack App Made With the Stack MERN + GraphQL. Create, delete & comment Post 
    [Open](https://serene-lamarr-885e86.netlify.app/)  
    [Front](https://github.com/Marlos-Rodriguez/MERNG-Next-Comment-Front)  
    [Back](https://github.com/Marlos-Rodriguez/MERN-GraphQL-Comment-Back)
+   
+* **Virtual Wallet Microservices Back**:  
+Golang project base in microservices architecture with PostgreSQL/gorm for DB and Redis for Cache, gRPC for communication between service and Docker-Compose:  
+   [Open](https://www.notion.so/FullStack-Virtual-Wallet-5ad68765804e46c8816110f333ddefd1)  
+   [GitHub](https://github.com/Marlos-Rodriguez/Go-Microservice-Virtual-Wallet)
 
 * **Project Management MERN App**:  
 Project and Task Management Web Application with User Login and Signup Created with the Stack MERN:  
@@ -13,20 +18,10 @@ Project and Task Management Web Application with User Login and Signup Created w
    [Front](https://github.com/Marlos-Rodriguez/MERN-Task-Cliente)  
    [Back](https://github.com/Marlos-Rodriguez/MERN-Task-Servidor)
 
-* **Product Hunt Clone**:  
-Product Hunt clone application with React/Next JS and Firebase Login and SignUp with Firebase authentication and product creation with Firestore and firebase storage:  
-   [Open](https://adoring-lewin-b7bac8.netlify.app/)  
-   [GitHub](https://github.com/Marlos-Rodriguez/Product-Hunt-Next-Firebase)
-
-* **Gatsby Hotel Website**:  
-Static Hotel Website made with React / Gatsby js and CMS GraphQL:  
-   [Open](https://pedantic-wilson-8d21bd.netlify.app/)  
-   [GitHub](https://github.com/Marlos-Rodriguez/Gatsby-Hotel)
-
-* **CRUD Redux App**:  
-Product Management CRUD web application. Created with React using Redux and React Hooks  
-   [Open](https://marlos-rodriguez.github.io/Crud-Redux/#/)  
-   [GitHub](https://github.com/Marlos-Rodriguez/Crud-Redux)
+* **Twitter Clon Go**:  
+Twitter Clon Back-end made with GO and MongoDB.:  
+   [Open](https://twittergoclon.herokuapp.com/)  
+   [GitHub](https://github.com/Marlos-Rodriguez/Twitter-Clon-Back)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/marlos-rodriguez/" target="blank">
