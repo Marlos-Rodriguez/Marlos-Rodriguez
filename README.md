@@ -28,6 +28,13 @@ Product Management CRUD web application. Created with React using Redux and Reac
    [Open](https://marlos-rodriguez.github.io/Crud-Redux/#/)  
    [GitHub](https://github.com/Marlos-Rodriguez/Crud-Redux)
 
-## Contact Me
-* Twitter - [@RodriguezMarlos](https://twitter.com/RodriguezMarlos)
-* linkedin - [Marlos Rodriguez](https://www.linkedin.com/in/marlos-rodriguez-7268481a2/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/marlos-rodriguez/" target="blank">
+        <img align="center" alt="Marlos's LinkedIn" width="30px"
+            src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+    </a>
+    <a href="https://twitter.com/RodriguezMarlos" target="blank">
+        <img align="center" alt="Marlos's Twitter" width="30px"
+            src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+    </a>
+</p>
