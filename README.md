@@ -5,21 +5,21 @@
 <p align="center">
     <a href="https://github.com/Marlos-Rodriguez/MERN-GraphQL-Comment-Back" target="blank">
         <img align="center" alt="Marlos's Social Network" width="400px"
-            src="https://pbs.twimg.com/media/EqQPT6oWMAEOM9i?format=jpg&name=large" /> &nbsp; &nbsp;
+            src="social.webp" /> &nbsp; &nbsp;
     </a>
     <a href="https://github.com/Marlos-Rodriguez/Go-Microservice-Virtual-Wallet" target="blank">
         <img align="center" alt="Marlos's Twitter" width="400px"
-            src="https://github.com/Marlos-Rodriguez/Go-Microservice-Virtual-Wallet/raw/master/image.png" /> &nbsp; &nbsp;
+            src="virtualwallet.webp" /> &nbsp; &nbsp;
     </a>
 </p>
 <p align="center">
    <a href="https://github.com/Marlos-Rodriguez/Twitter-Clon-Back" target="blank">
         <img align="center" alt="Marlos's Twitter" width="400px" margin-top="10px"
-            src="https://pbs.twimg.com/media/EqQTfkSXMAU9_oY?format=jpg&name=4096x4096" /> &nbsp; &nbsp;
+            src="twitter.webp" /> &nbsp; &nbsp;
     </a>
    <a href="https://github.com/Marlos-Rodriguez/MERN-Task-Servidor" target="blank">
         <img align="center" alt="Marlos's Twitter" width="400px" margin-top="10px"
-            src="https://pbs.twimg.com/media/EqQK15aXAAEUeBg?format=png&name=large" /> &nbsp; &nbsp;
+            src="task.webp" /> &nbsp; &nbsp;
     </a>
 </p>
 
