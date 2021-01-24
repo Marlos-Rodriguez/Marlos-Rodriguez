@@ -1,5 +1,5 @@
 # Marlos Rodríguez
-![Banner](https://github.com/Marlos-Rodriguez/Marlos-Rodriguez/raw/master/banner.png)
+![Banner](banner.webp)
 # Projects
 
 <p align="center">
